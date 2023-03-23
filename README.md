@@ -1,7 +1,8 @@
 # TTDS Movie Search IR Project 2023
-This is a group project for the course [TTDS](https://www.inf.ed.ac.uk/teaching/courses/tts/) (Text Technologies for Data Science) at the University of Edinburgh. 
+This is a group project for the course [TTDS](https://www.inf.ed.ac.uk/teaching/courses/tts/) (Text Technologies for Data Science) at the University of Edinburgh.
+This system is created by 6 member teams: Xudong Zhang, Qiunan Wu, Tianrui Xiong, Huacheng Song, Richard Yuan, Hao Zhou
 
-The title of our project: **CineMatch(CNM)**
+The title of our project: **CineMatch**
 Now this websit run on google cloud platform (http://34.123.106.69:5000/)
 
 
