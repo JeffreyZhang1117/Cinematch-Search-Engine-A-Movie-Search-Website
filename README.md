@@ -4,7 +4,7 @@ This is a group project for the course [TTDS](https://www.inf.ed.ac.uk/teaching/
 This system is created by 6 member team: Xudong Zhang, Qiunan Wu, Tianrui Xiong, Huacheng Song, Richard Yuan and Hao Zhou
 
 The title of our project: **CineMatch**
-Now this websit run on google cloud platform (http://34.123.106.69:5000/)
+Now this websit run on google cloud platform ( http://35.239.129.169:5000/ )
 
 
 ## Summary
